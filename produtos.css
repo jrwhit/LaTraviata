@@ -1,0 +1,36 @@
+p:first-letter
+{
+    font-weight: bold;
+}
+h1+p
+{
+    text-indent: 0;
+}
+html
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    border: 2px solid brown;
+    padding: 0px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2
+{
+    border-bottom: 1px solid #333333;
+    margin-top: 30px;
+}
+img
+{
+    padding: 15px;
+    margin: 45px;
+    background-color: #f2eded;
+    text-align: center;
+    float: right;
+}

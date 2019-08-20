@@ -1,0 +1,45 @@
+/*.header{
+    height: 65px;
+    z-index: 3;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}*/
+.conteiner
+{
+    margin: 2rem 4rem 2rem 4rem;
+    display: flex;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    height: 2rem;
+    color: aliceblue;
+}
+div .item
+{
+    width: 19.999%;
+}
+.pizza
+{
+    background-color: rgb(196, 22, 28);
+}
+.promocao
+{
+    background-color: rgb(37, 37, 37);
+}
+.focaccella
+{
+    background-color: rgb(223, 168, 31);
+}
+.focaccia
+{
+    background-color: rgb(28, 28, 99);
+}
+.bottoncino
+{
+    background-color: rgb(69, 110, 28);
+}
+.pizza img
+{
+    color: #FFF;
+}
