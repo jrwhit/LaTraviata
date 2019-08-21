@@ -5,19 +5,17 @@
     top: 0;
     width: 100%;
 }*/
-.conteiner
+.container
 {
-    margin: 2rem 4rem 2rem 4rem;
-    display: flex;
-    text-align: center;
+    margin-top: 2rem;
     font-size: 17px;
     text-transform: uppercase;
-    height: 2rem;
     color: aliceblue;
 }
-div .item
+.row .item
 {
     width: 19.999%;
+    text-align: center;
 }
 .pizza
 {
